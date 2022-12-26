@@ -1,0 +1,19 @@
+{
+  "name": "freeze-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.6",
+    "@solana/web3.js": "^1.72.0",
+    "@supercharge/promise-pool": "^2.3.2",
+    "chunk": "^0.0.3",
+    "tsv": "^0.2.0"
+  }
+}
